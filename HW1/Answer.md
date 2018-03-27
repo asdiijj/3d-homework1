@@ -82,6 +82,8 @@
         部件：Mesh Filter, Mesh Renderer, Box Collider
 
     - **UML**
+    
+      ![](/uml.png)
 ---
 
 - > 整理相关学习资料，编写简单代码验证以下技术的实现：
