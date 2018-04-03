@@ -43,7 +43,7 @@
 
     具体实现示例如图：
 
-    ![](//Assets/solar_pic.png)
+    ![](/HW2/Assets/solar_pic.png)
     
 ---
 
