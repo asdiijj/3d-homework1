@@ -43,7 +43,8 @@
 
     具体实现示例如图：
 
-    ![](/Assets/solar_pic.png)
+
+    ![](//Assets/solar_pic.png)
 
 
 ## 编程实践-牧师与恶魔
