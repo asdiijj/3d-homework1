@@ -4,21 +4,21 @@
 
     商店里找不到免费的 Fantasy Skybox，直接使用群里给的 skybox：
 
-    ![](/Assets/1.png)
+    ![](/HW/Assets/1.png)
 
     尝试使用 skybox 时遇到一点问题，从上图可以看到，直接使用所给的资源的话，会出现很明显的边界；
 
     将每张图片的 WrapMode 设置为 Clamp 即可，如图：
 
-    ![](/Assets/4.png)
+    ![](/HW/Assets/4.png)
 
     设置后可以看到边框消失了，真正实现无缝连接：
 
-    ![](/Assets/2.png)
+    ![](/HW/Assets/2.png)
 
     配合游戏对象使用：
 
-    ![](/Assets/3.png)
+    ![](/HW/Assets/3.png)
 
 ---
 
